@@ -8,7 +8,7 @@ Therefore the sign up process is slightly more engaged than usual. As well as se
 
 All the instructions required to set up a git account can be found [here](https://www.freecodecamp.org/news/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861/).
 
-Once you've setup an account create a pull request updating the names.js file. This pull request will add a change from your github username to the repository with your own name or the name of your favourite cartoon character.
+Once you've setup an account create a pull request updating the `names.js` file. This pull request will add a change to the repository with your own name or the name of your favourite cartoon character.
 
 Instructions:
 
