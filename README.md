@@ -14,4 +14,4 @@ Instructions:
 
 1. Create Github account
 2. Edit the names.js file with your name (or any name)
-3. Create a pull request
+3. Create a pull request. Example [here](https://github.com/code441/RegisterInterest/pull/2).
