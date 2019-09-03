@@ -1,4 +1,4 @@
-const myName = "";
+const myName = "PrielM";
 
 function sayHello(name) {
   alert("Hello " + name)
